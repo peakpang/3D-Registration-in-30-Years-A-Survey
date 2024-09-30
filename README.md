@@ -4,7 +4,7 @@ This is the official repository of **3D Registration in 30 Years：ASurvey (IEEE
 **3D Registration in 30 Years: A Survey**
 ## 1 Introduction
 3D point clouds to a unified coordinate system, known as 3D point cloud registration, is a fundamental problem in numerous areas such as computer vision, computer graphics, robotics, and remote sensing.
-## 2 Pairwise Registration}
+## 2 Pairwise Registration
 ### 2.1 Introduction
 
 ### 2.2 Pairwise Coarse Registration
