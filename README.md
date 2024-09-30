@@ -17,3 +17,24 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 **(2) Descriptors.**
 
 **(3) Matching technique.**
+
+
+## 4 Other Registration Problems 
+### 4.1 Cross-scale Registration 
+#### 4.1.1 Traditional ICP-like methods 
+  
+#### 4.1.2 Deep-learning methods 
+  
+### 4.2 Cross-source Registration 
+#### 4.2.1 Conventional Optimization methods 
+  
+#### 4.2.2 Deep Neural Network methods 
+  
+### 4.3 Color Point Cloud Registration 
+  
+### 4.4 Multi-instance Point Cloud Registration 
+#### 4.4.1 Multi-model Fitting methods 
+  
+#### 4.4.2 PPF-like methods 
+  
+### 4.5 Sim2Real Registration 
