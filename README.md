@@ -14,6 +14,6 @@ In correspondence-based methods, a crucial step is the generation of corresponde
 
 **(1) Keypoint detection.**
 
-**(2) descriptors.**
+**(2) Descriptors.**
 
-**(3) matching technique.**
+**(3) Matching technique.**
